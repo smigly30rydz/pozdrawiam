@@ -55,8 +55,6 @@ int main(void) {
     printf("czas pobierania : %f ",);
 
 
-    printf("w pierwszym branchu 2+3")
-
 
     return 0;
 }
