@@ -54,7 +54,7 @@ int main(void) {
     printf("%f , %f ", pob, wysyl);
     printf("czas pobierania : %f ",);
 
-
+    printf("witam branch 2 dodawanie 2+3")
 
     return 0;
 }
