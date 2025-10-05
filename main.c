@@ -53,7 +53,9 @@ int main(void) {
 
     printf("%f , %f ", pob, wysyl);
     printf("czas pobierania : %f ",);
-    wkitam
+
+
+    printf("w pierwszym branchu 2+3")
 
 
     return 0;
